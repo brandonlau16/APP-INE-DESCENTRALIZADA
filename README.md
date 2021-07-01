@@ -20,6 +20,7 @@
 ------------
 
 **Descripcion de la idea de la app:**
+
 La idea que se tiene respecto a la aplicacion, es que pueda funcionar para que el personal del Instituto Nacional Electoral pueda añadir a la base de datos de forma mas sencilla a las personas del pais, asi mismo, que sea mas intuitiva para las personas que se dedican a esta accion, el uso de esta aplicacion provocaria que la informacion de las personas no estuviese en un solo servidor, ya que esto traeria con sigo problemas si este mismo llegase a fallar por alguna razo, con ayuda de la descentralizacion todos los nodos de la aplicacion tendrian la informacion y esta asi mismo seria exactamente la misma debido a que se trabaja con blockchain y la cadena mas larga es la que se mantiene en uso.
 
 En la aplicacion se tiene pensado agregar tambien herramientas para que los trabajadores puedan obtener ayuda, en caso de que estos lo requieran, asi como obtener la informacion completa de algun usuario o varios si se llegase a necesitar, asi mismo, si es posible conectar con la base de datos actual del INE para extraccion de datos de las personas ya registradas hasta la fecha.
