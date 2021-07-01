@@ -27,19 +27,19 @@ En la aplicacion se tiene pensado agregar tambien herramientas para que los trab
 ------------
 
 # Programas utilizados para la aplicación
-##Pycharm
+**Pycharm**
 
 ![](https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png)
 
 > Entorno de desarrollo para la realizacion de la app. Se puede obtener dando click [Aqui](https://www.jetbrains.com/es-es/pycharm/download/#section=windows "Aqui").
 
-##Postman
+**Postman**
 
 ![](https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png)
 
 > Permite crear peticiones sobre APIs de una forma muy sencilla. Se puede obtener dando click [Aqui](https://www.postman.com/downloads/ "Aqui").
 
-##Visual Studio Code
+**Visual Studio Code**
 
 ![](https://i1.wp.com/blog.330ohms.com/wp-content/uploads/2021/02/thumbnail_visualstudiocode_01.png?fit=1200%2C675&ssl=1)
 
